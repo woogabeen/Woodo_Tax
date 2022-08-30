@@ -13,7 +13,7 @@ contract Woodo {
     } 
     
     /**
-    *  타임스탬프에 찍힌 시간대가 unlockTime을 넘기면 함수를 withdraw
+    *  withdraw function from timestamp
     */
 
     function () external payable {  //이더리움 전송 받기
